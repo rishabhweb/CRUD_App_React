@@ -1,3 +1,19 @@
+A basic note application that uses a [ReactJS](https://reactjs.org/) frontend to capture and manage notes, and [JSON-Server](https://www.npmjs.com/package/json-server) to store notes.
+
+
+## Features
+* Add note
+* Edit note
+* Delete note
+* List all notes
+* Find note by the title
+
+## ScreenShots
+
+![Front_Page](https://user-images.githubusercontent.com/80442110/113243316-6af18c80-92d0-11eb-96b6-fa9a8ddd4acf.png)
+![Add-Note](https://user-images.githubusercontent.com/80442110/113243338-75138b00-92d0-11eb-96c1-070ee9be4e95.png)
+![Delete_Note](https://user-images.githubusercontent.com/80442110/113243352-7b096c00-92d0-11eb-9395-b26be7cb7a86.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
