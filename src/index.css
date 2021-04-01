@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.search-button {
+  margin: 2px;
+  flex : 1;
+	padding : 4px 15px 6px 15px;
+	font-size: 15px;
+	color : white;
+	background-color : #3282b8;
+  border-radius: 10px;
+}
+
+.mr-sm-2 {
+  margin-left : 7px;
+}
+
+.flex-container {
+  display: flex;
+  padding : 50px;
+}
+.add-button {
+  margin: 2px;
+  flex : 1;
+  padding : 1px 10px 3px 10px;
+  font-size: 17px;
+  color : white;
+  background-color : #3282b8;
+  border-radius: 10px;
+}
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.modal_open {
+	margin: 5px;
+	left : 60%;
+	bottom : 15%;
+}
+.modal_close {
+	margin: 5px;
+	left : 70%;
+	bottom : 15%;
+}
+.modal {
+  background: rgba(0, 0, 0, 0.5);
+}
+.modal-container {
+  position: absolute;
+  width: 60%;
+  background: #ffffff;
+  left: 25%;
+  top: 30%;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+
+.heading {
+  padding : 15px;
+  text-align: center;
+  background-color: #363636;
+}
+
+.span1 {
+  font-size: 25px;
+  color : #617be3;
+  padding : 5px;
+
+}
+
+table,  th, td {
+  align-items: center;
+  text-align: center;
+  border :1px solid #d9e4dd ;
+  border-collapse: collapse;
+}
+
+
+.edit-button {
+  border-radius: 5px;
+  background: #0278ae;
+  color : white;
+  font-size: 11px;
+  padding : 3px 5px 4px 6px;
+}
+
+.delete-button {
+  border-radius: 5px;
+  background: #cf1b1b;
+  color : white;
+  font-size: 11px;
+  padding : 3px 5px 4px 6px;
+}
+
+.img-span {
+}
