@@ -1,3 +1,4 @@
+# README
 A basic note application that uses a [ReactJS](https://reactjs.org/) frontend to capture and manage notes, and [JSON-Server](https://www.npmjs.com/package/json-server) to store notes.
 
 
