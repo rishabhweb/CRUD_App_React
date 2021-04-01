@@ -82,13 +82,18 @@ code {
 
 }
 
-table,  th, td {
+table,th, td {
   align-items: center;
   text-align: center;
   border :1px solid #d9e4dd ;
   border-collapse: collapse;
 }
 
+
+
+.content {
+  width : 50%; 
+}
 
 .edit-button {
   border-radius: 5px;

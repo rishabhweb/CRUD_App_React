@@ -213,7 +213,7 @@ const Search = ({props}) => {
             <th scope = "col"> </th>
             <th scope = "col"> </th>
             <th scope = "col"> Title</th>
-            <th scope = "col"> Content</th>
+            <th scope = "col" className = "content" > Content</th>
             <th scope = "col"> Date </th>
           </tr>
         </thead>
